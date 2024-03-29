@@ -3,3 +3,5 @@ node_modules
 cypress
 cypress.json
 node_modules/ node_modules/
+# Local Netlify folder
+.netlify
